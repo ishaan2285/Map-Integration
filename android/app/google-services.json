@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131175613220",
+    "project_id": "store-ce7bf",
+    "storage_bucket": "store-ce7bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131175613220:android:96d319ce52dc60975f29b1",
+        "android_client_info": {
+          "package_name": "com.example.animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNW-0zbjZsXthPP390WJS9MyhN-XXALk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
